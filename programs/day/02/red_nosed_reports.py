@@ -4,7 +4,6 @@
 from functools import cache
 from itertools import pairwise
 from sys import stdin
-from prettytable import PrettyTable
 
 
 @cache
