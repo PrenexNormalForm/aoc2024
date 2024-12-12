@@ -1,2 +1,4 @@
 inputs/day/**
 !inputs/day/*-*
+
+*.pyc
