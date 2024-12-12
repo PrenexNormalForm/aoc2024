@@ -2,3 +2,4 @@ inputs/day/**
 !inputs/day/*-*
 
 *.pyc
+**/__pycache__
